@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("https://c0.wallpaperflare.com/preview/970/100/928/united-kingdom-norwich-neon-retro.jpg");
+  width: 600px;
+  padding: 20px;
+  margin: auto;
+}
+#title {
+  background-color: rgba(34, 139, 34);;
+  color: white;
+  border-color: black;
+  border-width: 5px;
+  border-style: dashed;
+}
+#description {
+  background-color: rgba(34, 139, 34);
+  color: black;
+  border-color: black;
+  border-width: 5px;
+  border-style: dashed;
+}
+#survey-form {
+  background-color: rgba(34, 139, 34);
+  color: black;
+  border-color: black;
+  border-width: 30px;
+  border-style: dashed;
+  border-radius:13%;
+  text-align: center;
+  width: 600px;
+  padding: 20px;
+  margin: auto;
+}
+#name {
+  padding: 15px;
+  border-radius: 100px;
+}
+#email {
+  padding: 15px;
+  border-radius: 100px;
+}
+#number {
+  padding: 15px;
+  border-radius: 100px;
+}
+#dropdown {
+  padding: 15px;
+  border-radius: 100px;
+}
+#comment {
+  padding: 15px;
+  border-radius: 100px;
+}
+#submit {
+  padding: 15px;
+  border-radius: 10px;
+  width: 590px;
+  font-size: 20px;
+  border: none;
+  margin-top: 3%;
+  background-color: black;
+  color: white;
+}
